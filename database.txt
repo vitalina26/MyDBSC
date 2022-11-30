@@ -1,0 +1,10 @@
+Database
+Table1
+Name	String	%File HtmlFile	%Age	Integer	%
+dev	dog	19
+moly	cat	13
+$
+Table2
+Name	String	%
+dev	dog	
+$

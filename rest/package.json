@@ -1,0 +1,31 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalina26/MyDBSC.git"
+  },
+  "author": "vita moroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalina26/MyDBSC/issues"
+  },
+  "homepage": "https://github.com/vitalina26/MyDBSC#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+
+}

@@ -1,0 +1,9 @@
+університет
+student
+age	Integer	%name	String	%
+21	vita
+35	ihor
+$
+tutor
+
+$
